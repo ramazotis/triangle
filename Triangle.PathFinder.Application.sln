@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle.PathFinder.Solver"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle.PathFinder.Tests", "Triangle.PathFinder.Tests\Triangle.PathFinder.Tests.csproj", "{46883FBC-E28C-4309-8307-4A3DE4CC91D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle.PathFinder.InputProvider", "Triangle.PathFinder.FileReader\Triangle.PathFinder.InputProvider.csproj", "{1C8DE2D5-1AF3-4031-B584-3A52050ADA43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle.PathFinder.InputProvider", "Triangle.PathFinder.InputProvider\Triangle.PathFinder.InputProvider.csproj", "{1C8DE2D5-1AF3-4031-B584-3A52050ADA43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Triangle.PathFinder.FileReader\Triangle.PathFinder.InputProvider.csproj" />
     <ProjectReference Include="..\Triangle.PathFinder.Solver\Triangle.PathFinder.Solver.csproj" />
   </ItemGroup>
 
